@@ -1,0 +1,13 @@
+#body {
+    background-color: lightskyblue;
+}
+
+h1 {
+    color: #4aaaa5;
+}
+
+#footer {
+    background-color: #666666;
+    border-top: solid;
+    border-color: #4aaaa5;
+}
